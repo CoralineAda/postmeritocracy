@@ -39,6 +39,6 @@ These core values and principles are:
   To add your name to the list of signatories, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">sign this form</a>.
 </p>
 
-<!-- {{< data-list "static/signatories.csv" >}} -->
+{{< data-list "static/signatories.csv" >}}
 
 {{% /section %}}
