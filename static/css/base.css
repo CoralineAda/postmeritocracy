@@ -299,7 +299,6 @@ a:hover {
 
 .data-list li {
   overflow: hidden;
-  text-overflow: ellipsis;
   white-space: nowrap;
   margin-bottom: .25em;
 }
