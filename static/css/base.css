@@ -73,6 +73,7 @@ ul {
 
 li {
   text-align: left;
+  margin-bottom: 1em;
 }
 /* inline elements */
 a {
@@ -300,6 +301,7 @@ a:hover {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  margin-bottom: .25em;
 }
 
 .callout {
