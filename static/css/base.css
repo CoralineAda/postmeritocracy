@@ -297,13 +297,15 @@ a:hover {
   column-fill: balance;
   column-count: 3;
   column-gap: 20px;
-  margin-left: 0;
+  width: 75%
+  margin: 0 auto;
 }
 
 .data-list li {
   overflow: hidden;
   white-space: nowrap;
   margin-bottom: .25em;
+  text-align: center;
 }
 
 .callout {
@@ -318,16 +320,25 @@ a:hover {
   html {
     font-size: .75rem;
   }
+  .data-list {
+    column-count: 1;
+  }
 }
 
 @media (min-width: 375px) {
   html {
     font-size: .875rem;
   }
+  .data-list {
+    column-count: 2;
+  }
 }
 
 @media (min-width: 414px) {
   html {
     font-size: 1rem;
+    .data-list {
+      column-count: 3;
+    }
   }
 }
