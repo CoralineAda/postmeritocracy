@@ -81,7 +81,7 @@ li {
 /* inline elements */
 a {
   color: hsl(10, 80%, 35%);
-  text-decoration: none;
+  text-decoration: underline;
   transition: color .25s;
 }
 

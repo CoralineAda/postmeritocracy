@@ -1,4 +1,3 @@
-
 +++
 title = "The Post-Meritocracy Manifesto"
 +++
@@ -10,6 +9,8 @@ title = "The Post-Meritocracy Manifesto"
 Meritocracy is a founding principle of the open source movement, and the idea(l) of meritocracy is perpetuated throughout our field in the way people are recruited, hired, retained, promoted, and valued.
 
 But meritocracy has consistently shown itself to mainly benefit those with privilege, to the exclusion of underrepresented people in technology. The idea of merit is in fact never clearly defined; rather, it seems to be a form of recognition, an acknowledgement that “this person is valuable insofar as they are like me.”
+
+(If you are not familiar with criticisms of meritocracy, please refer to the resources on <a href="/meritocracy/">this page</a>.)
 
 It is time that we as an industry abandon the notion that merit is something that can be measured, can be pursued on equal terms by every individual, and can ever be distributed fairly.
 
