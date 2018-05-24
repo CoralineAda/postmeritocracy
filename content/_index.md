@@ -15,6 +15,8 @@ It is time that we as an industry abandon the notion that merit is something tha
 
 What does a post-meritocracy world look like? It is founded on a core set of values and principles, an affirmation of belonging that applies to everyone who engages in the practice of software development.
 
+### Our Values
+
 These core values and principles are:
 
 * We do not believe that our value as human beings is intrinsically tied to our value as knowledge workers. Our professions do not define us; we are more than the work we do.
@@ -29,8 +31,6 @@ These core values and principles are:
 * We are devoted to practicing compassion and not contempt. We refuse to belittle other people because of their choices of tools, techniques, or languages.
 * The field of software development embraces technical change, and is made better by also accepting social change.
 * We strive to reflect our values in everything that we do. We recognize that values that are espoused but not practiced are not values at all.
-
-<hr size="1">
 
 ### Signatories
 

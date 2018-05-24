@@ -47,6 +47,9 @@ h2 {
 }
 
 h3 {
+  border-top: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
+  padding: .25em 0em;
   font-size: 1.75rem;
   color: #555;
   font-weight: 600;
@@ -306,9 +309,9 @@ a:hover {
 .callout {
   text-align: center;
   background: #eee;
-  border: 1px solid #aaa;
   padding: 0.75rem;
-  width: 100%;
+  width: 97%;
+  font-size: .75em;
 }
 
 @media (min-width: 200px) {
