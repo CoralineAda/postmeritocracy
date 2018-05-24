@@ -1,0 +1,8 @@
+<ul class="data-list">
+  {{ $data := getCSV "," (.Get 0) }}
+  {{ range $i, $r := (after 1 $data) "value" }}
+    <li>
+      {{ trim (index $r 0) " " }}
+    </li>
+  {{ end }}
+</ul>

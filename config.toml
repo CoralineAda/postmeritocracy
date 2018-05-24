@@ -1,0 +1,9 @@
+baseURL = "https://postmeritocracy.com"
+languageCode = "en-us"
+title = "The Post-Meritocracy Manifesto"
+
+buildFuture = true
+enableGitInfo = true
+disableHugoGeneratorInject = true
+footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-101929377-2"

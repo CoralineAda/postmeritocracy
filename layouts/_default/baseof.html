@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="{{ .Lang }}" class="{{ .Type }} {{ .Kind }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    {{ if .GitInfo }}
+      <meta name="git-hash" content="{{ .GitInfo.AbbreviatedHash | safeHTMLAttr }}">
+    {{ end }}
+    <meta property="og:url" content="{{ .Permalink }}">
+    <title>{{ block "title" . }}The Post-Meritocracy Manifesto{{ end }}</title>
+    {{ if .Site.BuildDrafts }}
+      <link rel="stylesheet" href="{{ "css/base.css" | relURL }}">
+    {{ else }}
+      <style>
+        {{ readFile "static/css/base.css" | safeCSS }}
+      </style>
+    {{ end }}
+  </head>
+  <body>
+    {{ block "main" . }}
+      {{ .Content }}
+    {{ end }}
+    <section class="footer">
+      <div>
+        <p>Created by <a href="https://where.coraline.codes">Coraline Ada Ehmke</a> in May 2018.</p>
+        <p>This is a living document. You can contribute <a href="https://github.com/coralineAda/postmeritocracy">on GitHub</a>.</p>
+      </div>
+    </section>
+    <link id="font-stylesheet" rel="alternate stylesheet" href="https://fonts.googleapis.com/css?family=Spectral:400,400i,600,600i|Spectral+SC:400,400i,600,600i">
+    {{ if .Site.BuildDrafts }}
+      <script src="/scripts/coder.js"></script>
+      <link rel="stylesheet" href="{{ "css/coder.css" | relURL }}">
+    {{ else }}
+      <script>
+        {{ readFile "static/scripts/manifesto.js" | safeJS }}
+      </script>
+      <script>
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        ga('create', '{{ .Site.GoogleAnalytics }}', 'auto');
+        ga('send', 'pageview');
+
+        {{ readFile "static/scripts/analytics.js" | safeJS }}
+      </script>
+    {{ end }}
+  </body>
+</html>

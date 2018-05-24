@@ -1,0 +1,329 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  color: hsl(60, 17%, 19.6%);
+  font-size: .625rem;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  background: hsl(50, 17%, 96%);
+}
+
+body {
+  background: hsl(60, 17%, 98%);
+  align-items: stretch;
+  display: flex;
+  flex-direction: column;
+  font: 400 1.25rem/1.75rem "Spectral", Palatino, serif;
+  font-synthesis: none;
+  font-variant-numeric: oldstyle-nums;
+  -moz-hanging-punctuation: first last allow-end;
+  -ms-hanging-punctuation: first last allow-end;
+  -webkit-hanging-punctuation: first last allow-end;
+  hanging-punctuation: first last allow-end;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  min-height: 100vh;
+  max-width: 55rem;
+  margin: 5% auto;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+/* block elements */
+h2 {
+  font-family: "Spectral SC", Palatino, serif;
+  font-size: 2.25rem;
+  font-weight: 600;
+  line-height: 3.5rem;
+  margin: 0rem 0 .75rem;
+  border-bottom: 1px solid #aaa;
+}
+
+h3 {
+  font-size: 1.75rem;
+  color: #555;
+  font-weight: 600;
+  line-height: 2.25rem;
+  margin: 0 0;
+}
+
+* + h3 {
+  margin-top: 2rem;
+}
+
+figcaption,
+p {
+  margin: 1.75rem 0;
+  text-align: justify;
+}
+
+dl,
+ol,
+ul {
+  list-style-type: circle;
+  margin: 1.75rem;
+}
+
+li {
+  text-align: left;
+}
+/* inline elements */
+a {
+  color: hsl(10, 80%, 35%);
+  text-decoration: none;
+  transition: color .25s;
+}
+
+img {
+  border: 0;
+  color: transparent;
+  display: block;
+}
+
+section > div {
+  margin: 0 auto;
+  max-width: 43.75rem;
+  padding: 1.75rem;
+}
+
+section:nth-last-of-type(2) {
+  flex: 1;
+}
+
+figcaption {
+  text-align: center;
+}
+
+fieldset {
+  border: 0;
+}
+
+legend {
+  text-align: justify;
+}
+
+fieldset > div {text-align:right;}
+
+label {
+  display: flex;
+  font-size: 1rem;
+  margin: 1.75rem 0 0 0;
+}
+
+label > span {
+  font-family: "Spectral SC", Palatino, serif;
+  font-weight: 600;
+  margin: .375rem 0;
+  text-align: left;
+  width: 9rem;
+}
+
+button,
+input,
+textarea {
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background: hsla(60, 17%, 73.5%, .25);
+  border: 0;
+  border-radius: 0;
+  box-sizing: border-box;
+  color: inherit;
+  font: inherit;
+  height: 2.25rem;
+  resize: none;
+}
+
+input,
+textarea {
+  padding: .375rem;
+  width: 75%;
+  margin: .75rem;
+}
+
+textarea {
+  height: 7.75rem;
+}
+
+input:focus,
+textarea:focus {
+  outline: .125rem solid hsla(60, 17%, 73.5%, .75);
+}
+
+button {
+  clear: both;
+  background-color: #aaa;
+  border: 0 none;
+  border-radius: 4px;
+  transition: all 0.23s ease-in-out 0s;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: normal;
+  height: 32px;
+  line-height: 32px;
+  margin: 0 5px 10px 0;
+  padding: 0 22px;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: top;
+  white-space: nowrap;
+  width: auto;
+}
+
+button:hover {
+  background-color: #777;;
+}
+
+.grid-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-left: -.875rem; /* hack to get spacing between items right */
+  width: calc(100% + 1.75rem);
+}
+
+.grid-list a {
+  display: block;
+}
+
+.grid-list li {
+  margin: 0 .875rem 1.75rem;
+  max-width: 21rem;
+}
+
+.header {
+  border-bottom: .0625rem solid hsla(60, 17%, 98%, 0);
+  padding-top: 3.5rem;
+  position: -moz-sticky;
+  position: -ms-sticky;
+  position: -webkit-sticky;
+  position: sticky;
+  top: -3.5rem;
+  transition: border-color .25s;
+  z-index: 10; /* Chrome... */
+}
+
+.scrolled .header {
+  border-color: hsla(60, 17%, 49%, .25);
+}
+
+.footer {
+  border-top: 1px solid #ddd;
+  font-family: "Spectral SC", Palatino, serif;
+  font-size: .875rem;
+  width: 82%;
+  margin: 0 auto;
+}
+
+.footer p {
+  margin: 0;
+  text-align: center;
+}
+
+.footer a {
+  color: inherit;
+}
+
+.emphasis {
+  width: 75%;
+  padding: 0.75rem;
+  margin: 0 auto;
+  font-weight: bold;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+/* workaround spurious paragraphs in Hugo output */
+p:empty {
+  display: none;
+}
+
+figure em {
+  display: block;
+  font-size: 1.25rem;
+  text-align: center;
+}
+
+blockquote {
+  margin-top: 2em;
+  border-left: .25rem solid hsl(0, 0%, 60%);
+  border-right: .25rem solid hsl(0, 0%, 60%);
+  padding: 1rem;
+}
+
+figure strong {
+  display: block;
+  font-family: "Spectral SC", Palatino, serif;
+  margin-top: .75rem;
+}
+
+figure strong a {
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+figure time {
+  display: block;
+}
+
+a:hover {
+  color: hsl(10, 90%, 60%);
+}
+
+.data-list {
+  list-style: none;
+  -moz-column-count: 1;
+  -ms-column-count: 1;
+  -webkit-column-count: 1;
+  column-count: 1;
+  -moz-column-fill: balance;
+  -ms-column-fill: balance;
+  -webkit-column-fill: balance;
+  column-fill: balance;
+  column-count: 3;
+  column-gap: 20px;
+  margin-left: 0;
+}
+
+.data-list li {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.callout {
+  text-align: center;
+  background: #eee;
+  border: 1px solid #aaa;
+  padding: 0.75rem;
+  width: 100%;
+}
+
+@media (min-width: 200px) {
+  html {
+    font-size: .75rem;
+  }
+}
+
+@media (min-width: 375px) {
+  html {
+    font-size: .875rem;
+  }
+}
+
+@media (min-width: 414px) {
+  html {
+    font-size: 1rem;
+  }
+}
