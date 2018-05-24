@@ -6,4 +6,4 @@ buildFuture = true
 enableGitInfo = true
 disableHugoGeneratorInject = true
 footnoteReturnLinkContents = "^"
-googleAnalytics = "UA-101929377-2"
+googleAnalytics = "UA-101929377-3"
