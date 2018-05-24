@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://postmeritocracy.com/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="se"
+                href="https://postmeritocracy.com/se/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://postmeritocracy.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://postmeritocracy.com/translations/</loc>
+  </url>
+  
+  <url>
+    <loc>https://postmeritocracy.com/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="se"
+                href="https://postmeritocracy.com/se/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://postmeritocracy.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://postmeritocracy.com/</loc>
+    <lastmod>2018-05-24T14:08:10-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="se"
+                href="https://postmeritocracy.com/se/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://postmeritocracy.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://postmeritocracy.com/meritocracy/</loc>
+    <lastmod>2018-05-24T10:38:34-05:00</lastmod>
+  </url>
+  
+</urlset>

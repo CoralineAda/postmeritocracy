@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://postmeritocracy.com/se/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://postmeritocracy.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="se"
+                href="https://postmeritocracy.com/se/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://postmeritocracy.com/se/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://postmeritocracy.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="se"
+                href="https://postmeritocracy.com/se/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://postmeritocracy.com/se/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://postmeritocracy.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="se"
+                href="https://postmeritocracy.com/se/tags/"
+                />
+  </url>
+  
+</urlset>

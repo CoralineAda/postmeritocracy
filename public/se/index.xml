@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Post-Meritocracy Manifesto</title>
+    <link>https://postmeritocracy.com/se/</link>
+    <description>Recent content on The Post-Meritocracy Manifesto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>se</language>
+    
+	<atom:link href="https://postmeritocracy.com/se/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
