@@ -30,12 +30,14 @@ These core values and principles are:
 * The field of software development embraces technical change, and is made better by also accepting social change.
 * We strive to reflect our values in everything that we do. We recognize that values that are espoused but not practiced are not values at all.
 
-### Signatories
+<hr size="1">
 
-{{< data-list "static/signatories.csv" >}}
+### Signatories
 
 <p class="callout">
   To add your name to this list, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">sign this form</a>.
 </p>
+
+{{< data-list "static/signatories.csv" >}}
 
 {{% /section %}}
