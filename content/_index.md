@@ -6,6 +6,8 @@ title = "The Post-Meritocracy Manifesto"
 
 ## The Post-Meritocracy Manifesto
 
+{{< translations >}}
+
 Meritocracy is a founding principle of the open source movement, and the ideal of meritocracy is perpetuated throughout our field in the way people are recruited, hired, retained, promoted, and valued.
 
 But meritocracy has consistently shown itself to mainly benefit those with privilege, to the exclusion of underrepresented people in technology. The idea of merit is in fact never clearly defined; rather, it seems to be a form of recognition, an acknowledgement that “this person is valuable insofar as they are like me.”
@@ -32,8 +34,6 @@ These core values and principles are:
 * We are devoted to practicing compassion and not contempt. We refuse to belittle other people because of their choices of tools, techniques, or languages.
 * The field of software development embraces technical change, and is made better by also accepting social change.
 * We strive to reflect our values in everything that we do. We recognize that values that are espoused but not practiced are not values at all.
-
-{{< translations >}}
 
 ### Signatories
 
