@@ -18,3 +18,7 @@ page = ["html"]
 languageName = "English"
 languageCode = "en"
 weight = 1
+
+[Languages.hi]
+languageName = "Hindi"
+languageCode = "hi"
