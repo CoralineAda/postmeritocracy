@@ -7,3 +7,14 @@ enableGitInfo = true
 disableHugoGeneratorInject = true
 footnoteReturnLinkContents = "^"
 googleAnalytics = "UA-101929377-3"
+
+[outputs]
+home = ["html"]
+page = ["html"]
+
+[Languages]
+
+[Languages.en]
+languageName = "English"
+languageCode = "en"
+weight = 1

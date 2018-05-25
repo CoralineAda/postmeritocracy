@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Translations on The Post-Meritocracy Manifesto</title>
+    <link>https://postmeritocracy.com/se/translations/</link>
+    <description>Recent content in Translations on The Post-Meritocracy Manifesto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>se</language>
+    
+	<atom:link href="https://postmeritocracy.com/se/translations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://postmeritocracy.com/se/translations/manifesto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://postmeritocracy.com/se/translations/manifesto/</guid>
+      <description>The Post-Meritocracy Manifesto Meritokratin är en grundprincip för öppen källkörningsrörelsen, och ideen om meritokrati förekommer inom hela vårt område i det sätt som människor rekryteras, anställs, behålls, främjas och värderas.
+Men meritokratin har konsekvent visat sig att främst gynna dem med privilegium, uteslutning av underrepresenterade människor i teknik. Idén om förtjänst är faktiskt aldrig klart definierad; Det verkar snarare vara en form av erkännande, ett erkännande att &amp;ldquo;den här personen är värdefull i den mån de är som jag&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
