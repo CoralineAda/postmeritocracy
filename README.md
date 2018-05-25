@@ -19,6 +19,6 @@ Please use the Google Form linked on the bottom of the page at https://postmerit
       languageCode = "se"
 
 * Start the hugo server: `hugo server -D`
-* Navigate to http://localhost:1313/LANGUAGE_COD/ and you should see your translation
+* Navigate to http://localhost:1313/LANGUAGE_CODE/ and you should see your translation
 * Open a pull request
 * I will find another native speaker to look over the translation you made, and then it will be merged!
