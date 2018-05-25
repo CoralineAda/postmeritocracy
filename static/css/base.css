@@ -295,7 +295,6 @@ a:hover {
   -ms-column-fill: balance;
   -webkit-column-fill: balance;
   column-fill: balance;
-  column-count: 3;
   column-gap: 20px;
   width: 75%
   margin: 0 auto;
