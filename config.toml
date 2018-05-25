@@ -18,7 +18,3 @@ page = ["html"]
 languageName = "English"
 languageCode = "en"
 weight = 1
-
-[Languages.se]
-languageName = "Swedish"
-languageCode = "se"
