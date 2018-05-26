@@ -10,7 +10,7 @@ Please use the Google Form linked on the bottom of the page at https://postmerit
 ## Adding a translation
 * Fork the repo
 * Make sure that you have Hugo installed: `brew install hugo`
-* Create an empty markdown file called `_index.<COUNTRY_CODE>.md` in the `content` directory
+* Create an empty markdown file called `_index.<LANGUAGE_CODE>.md` in the `content` directory
 * Write your translation there. Be sure to copy the structure of the English version at `index.md`, including all the special codes.
 * Add an entry to `config.toml` with your language information under the [Languages] tag. For example, for Swedish, you would enter:
 
