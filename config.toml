@@ -20,5 +20,5 @@ languageCode = "en"
 weight = 1
 
 [Languages.sp]
-languageNam = "Spanish"
+languageName = "Spanish"
 languageCode = "sp"
