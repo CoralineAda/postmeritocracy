@@ -20,6 +20,11 @@ There are a number of resources for understanding the shortcomings of meritocrac
     </a>
   </li>
   <li>
+    <a href="https://adanewmedia.org/2018/03/naive-meritocracy-and-the-meanings-of-myth/">
+      Naive Meritocracy and the Meanings of Myth
+    </a>
+  </li>
+  <li>
     <a href="http://istechameritocracy.com">
       istechameritocracy.com
     </a>
