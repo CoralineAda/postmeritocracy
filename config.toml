@@ -26,3 +26,7 @@ languageCode = "hi"
 [Languages.de]
 languageName = "Deutsch"
 languageCode = "de"
+
+[Languages.pt]
+languageName = "Português"
+languageCode = "pt"
