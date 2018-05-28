@@ -33,7 +33,7 @@ Diese grundlegenden Werte und Prinzipien sind:
 
 * Wir haben die Verpflichtung unsere - wie auch immer subtil - privilegierten Positionen zu nutzen, um das Leben Anderer zu verbessern.
 
-* Wir müssen Raum schaffen für Menschen, die nicht so sind wir, damit sie in unseren Bereich einsteigen und darin erfolgreich sind. Das bedeutet nicht nur, diese Menschen in den IT-Bereich einzuladen, sondern auch sicherzustellen, dass sie darin Unterstützung und Ermächtigung finden.
+* Wir müssen Raum schaffen für Menschen, die nicht so sind wie wir, damit sie in unseren Bereich einsteigen und darin erfolgreich sind. Das bedeutet nicht nur, diese Menschen in den IT-Bereich einzuladen, sondern auch sicherzustellen, dass sie darin Unterstützung und Ermächtigung finden.
 
 * Wir haben eine moralische Verantwortung die Arbeit an Software zu verweigern, die das Wohl anderer Menschen negativ beeinträchtigt.
 
