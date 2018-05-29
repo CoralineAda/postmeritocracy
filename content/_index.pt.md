@@ -44,4 +44,3 @@ Estes valores e princípios fundamentais são:
 {{<data-list "static/signatories.csv">}}
 
 {{% /section %}}
-G
