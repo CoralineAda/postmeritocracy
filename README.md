@@ -16,7 +16,7 @@ Please use the Google Form linked on the bottom of the page at https://postmerit
 
 * Create an empty markdown file called `_index.<COUNTRY_CODE>.md` in the `content` directory
 * Write your translation there. Be sure to copy the structure of the English version at `index.md`, including all the special codes.
-* Add an entry to `config.toml` with your language information under the [Languages] tag. For example, for Swedish, you would enter:
+* Add an entry to `config.toml` with your language information under the [Languages] tag. Please use the language codes defined by ISO 639-1: http://www.loc.gov/standards/iso639-2/php/code_list.php. For example, for Swedish, you would enter:
 
       [Languages.se]
       languageName = "Swedish"
