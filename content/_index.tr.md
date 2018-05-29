@@ -14,7 +14,7 @@ Ancak zaman içerisinde tekrar tekrar görüldü ki meritokrasiden esasen egemen
 
 (Meritokrasiye getirilen eleştirilere hakim değilseniz <a href="/meritocracy/">bu sayfadaki (İngilizce)</a> kaynaklara başvurabilirsiniz.)
 
-Artık mesleğimizde liyakatin ölçülebilecek, herkesin için eşit bir şekilde elde edebileceği ve adil bir şekilde paylaşılabilecek bir şey olduğu fikrinden vazgeçmenin zamanı geldi.
+Artık mesleğimizde liyakatin ölçülebilecek, her birey için eşit şartlarla elde edilebilecek ve adil bir şekilde paylaşılabilecek bir şey olduğu fikrinden vazgeçmenin zamanı geldi.
 
 Peki meritokrasinin olmadığı bir dünya nasıl olabilir ? Bunun yazılıma bir şekilde eli değen herkesi kapsayacak değer ve ilkeler ortaya konularak yapılabileceğine inanıyoruz.
 
@@ -24,7 +24,7 @@ Bahsettiğimiz temel değer ve ilkeler:
 
 * Kafa emeği ile iş yapan insanlar olarak bir işçi olarak değerimizin bir insan olarak değerimizi belirlediğine inanmıyoruz. Mesleğimiz bizim kim olduğumuzu belirlemiyor ve biz yaptığımız işten daha fazlasıyız.
 * Teknik beceriler kadar sosyal becerilerinde önemli olduğuna inanıyoruz.
-* Yaptığımız işe en fazla değeri farklılıklarımızdan doğan tecrübelerimizi kullanarak katacağımıza inanıyor ve homojenliği zarar bir etmen olarak görüyoruz.
+* Yaptığımız işe en fazla değeri farklılıklarımızdan doğan tecrübelerimizi kullanarak katacağımıza inanıyor ve homojenliği zararli bir etmen olarak görüyoruz.
 * Zengin ve tatminkar hayatlar sürerek de başarılı olabiliriz. Başarımız ve değerimiz bütün enerjimizi yazılıma harcamamıza bağlı değildir.
 * Egemen bir kesime mensupsak bu konumuzu başka insanlar için kullanmakla yükümlüyüz.
 * Mesleğimizde bizim gibi olmayan insanlara da yer açmalı ve başarılı olabilmeleri için gerekli bütün desteği aldıklarından da emin olmalıyız.
