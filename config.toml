@@ -30,3 +30,7 @@ languageCode = "de"
 [Languages.pt]
 languageName = "Português"
 languageCode = "pt"
+
+[Languages.tr]
+languageName = "Türkçe"
+languageCode = "tr"
