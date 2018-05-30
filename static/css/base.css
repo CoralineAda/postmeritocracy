@@ -350,15 +350,15 @@ a:hover {
     font-size: .875rem;
   }
   .data-list {
-    column-count: 2;
+    column-count: 1;
   }
 }
 
 @media (min-width: 414px) {
   html {
     font-size: 1rem;
-    .data-list {
-      column-count: 3;
-    }
+  }
+  .data-list {
+    column-count: 2;
   }
 }
