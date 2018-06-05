@@ -1,4 +1,4 @@
-baseURL = "https://postmeritocracy.com"
+baseURL = "https://postmeritocracy.org"
 languageCode = "en-us"
 title = "The Post-Meritocracy Manifesto"
 
@@ -22,3 +22,15 @@ weight = 1
 [Languages.sp]
 languageName = "Spanish"
 languageCode = "sp"
+
+[Languages.hi]
+languageName = "हिन्दी भाषा"
+languageCode = "hi"
+
+[Languages.de]
+languageName = "Deutsch"
+languageCode = "de"
+
+[Languages.pt]
+languageName = "Português"
+languageCode = "pt"

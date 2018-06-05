@@ -285,6 +285,27 @@ a:hover {
   color: hsl(10, 90%, 60%);
 }
 
+.translation-list {
+  list-style: none;
+  margin: 0 auto 2em auto;
+  text-align: center;
+}
+
+.translation-list li {
+  display: inline-block;
+  *display:inline;
+  *zoom:1;
+  overflow: hidden;
+  white-space: nowrap;
+  margin: 0 1rem .25em 0;
+  text-align: center;
+  font-size: .75em;
+}
+
+.translation-list li a {
+  text-decoration: none;
+}
+
 .data-list {
   list-style: none;
   -moz-column-count: 1;
@@ -329,15 +350,15 @@ a:hover {
     font-size: .875rem;
   }
   .data-list {
-    column-count: 2;
+    column-count: 1;
   }
 }
 
 @media (min-width: 414px) {
   html {
     font-size: 1rem;
-    .data-list {
-      column-count: 3;
-    }
+  }
+  .data-list {
+    column-count: 2;
   }
 }
