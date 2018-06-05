@@ -19,6 +19,10 @@ languageName = "English"
 languageCode = "en"
 weight = 1
 
+[Languages.sp]
+languageName = "Spanish"
+languageCode = "sp"
+
 [Languages.hi]
 languageName = "हिन्दी भाषा"
 languageCode = "hi"
