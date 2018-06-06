@@ -10,7 +10,7 @@ title = "Postmeritokrasi Manifestosu"
 
 Meritokrasi, özgür yazılım hareketinin temelinde yatan bir ilke olmanın yanı sıra, mesleğimizde insanların işe alımlarında, terfilerinde ve daha genel olarak ne kadar değer gördüklerinde meritokrasi ideali büyük bir rol oynamaktadır.
 
-Ancak zaman içerisinde tekrar tekrar görüldü ki meritokrasiden esasen egemen kesimlerine mensup insanlar fayda sağlarken, azınlık kesimlere mensup insanlar dışlanmaktadır. Türkçe'deki karşılığı liyakat olan ve meritokrasinin temelinde duran merit kavramı ise genellikle havada kalmaktadır. Bu da insanların bu liyakatı hep kendilerine benzeyen insanlarda görmesine yol açmaktadır.
+Ancak zaman içerisinde tekrar tekrar görüldü ki meritokrasiden esasen egemen kesimlere mensup insanlar fayda sağlarken, azınlık kesimlere mensup insanlar dışlanmaktadır. Türkçe'deki karşılığı liyakat olan ve meritokrasinin temelinde duran merit kavramının ise genellikle havada kalması  insanların bu liyakatı hep kendilerine benzeyen insanlarda görmesine yol açmaktadır.
 
 (Meritokrasiye getirilen eleştirilere hakim değilseniz <a href="/meritocracy/">bu sayfadaki (İngilizce)</a> kaynaklara başvurabilirsiniz.)
 
@@ -25,8 +25,8 @@ Bahsettiğimiz temel değer ve ilkeler:
 * Kafa emeği ile iş yapan insanlar olarak bir işçi olarak değerimizin bir insan olarak değerimizi belirlediğine inanmıyoruz. Mesleğimiz bizim kim olduğumuzu belirlemiyor ve biz yaptığımız işten daha fazlasıyız.
 * Teknik beceriler kadar sosyal becerilerinde önemli olduğuna inanıyoruz.
 * Yaptığımız işe en fazla değeri farklılıklarımızdan doğan tecrübelerimizi kullanarak katacağımıza inanıyor ve homojenliği zararli bir etmen olarak görüyoruz.
-* Zengin ve tatminkar hayatlar sürerek de başarılı olabiliriz. Başarımız ve değerimiz bütün enerjimizi yazılıma harcamamıza bağlı değildir.
-* Egemen bir kesime mensupsak bu konumuzu başka insanlar için kullanmakla yükümlüyüz.
+* Zengin ve tatminkar hayatlar sürerek de başarılı olabiliriz. Başarım ve değerimiz bütün enerjimizi yazılıma harcamamıza bağlı değildir.
+* Egemen bir kesime mensupsak bu konumumuzu başka insanlar için kullanmakla yükümlüyüz.
 * Mesleğimizde bizim gibi olmayan insanlara da yer açmalı ve başarılı olabilmeleri için gerekli bütün desteği aldıklarından da emin olmalıyız.
 * Başka insanlara zarar verebilecek yazılımlar üretmeyi reddetmenin ahlaki bir sorumluluk olduğunun bilincindeyiz.
 * Teknik olmayan katkıların da teknik katkılar kadar faydalı olabileceğinin farkındayız.
