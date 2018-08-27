@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://postmeritocracy.org/categories/</loc>
+    <loc>https://postmeritocracy.org/de/categories/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://postmeritocracy.org/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="sp"
@@ -17,58 +22,23 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://postmeritocracy.org/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="https://postmeritocracy.org/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://postmeritocracy.org/categories/"
+                hreflang="de"
+                href="https://postmeritocracy.org/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://postmeritocracy.org/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://postmeritocracy.org/sp/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hi"
-                href="https://postmeritocracy.org/hi/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://postmeritocracy.org/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://postmeritocracy.org/pt/tags/"
-                />
+    <loc>https://postmeritocracy.org/de/</loc>
+    <lastmod>2018-05-28T12:00:24+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://postmeritocracy.org/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://postmeritocracy.org/</loc>
-    <lastmod>2018-05-25T16:55:15-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://postmeritocracy.org/de/"
+                href="https://postmeritocracy.org/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -87,14 +57,39 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://postmeritocracy.org/"
+                hreflang="de"
+                href="https://postmeritocracy.org/de/"
                 />
   </url>
   
   <url>
-    <loc>https://postmeritocracy.org/meritocracy/</loc>
-    <lastmod>2018-05-26T20:58:43-05:00</lastmod>
+    <loc>https://postmeritocracy.org/de/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://postmeritocracy.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sp"
+                href="https://postmeritocracy.org/sp/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://postmeritocracy.org/hi/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://postmeritocracy.org/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://postmeritocracy.org/de/tags/"
+                />
   </url>
   
 </urlset>

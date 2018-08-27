@@ -2,12 +2,27 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://postmeritocracy.com/se/sitemap.xml</loc>
+	   	<loc>https://postmeritocracy.org/sp/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://postmeritocracy.com/en/sitemap.xml</loc>
+	   	<loc>https://postmeritocracy.org/hi/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://postmeritocracy.org/de/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://postmeritocracy.org/pt/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://postmeritocracy.org/en/sitemap.xml</loc>
 		
 	</sitemap>
 	
