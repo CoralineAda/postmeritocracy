@@ -38,3 +38,7 @@ languageCode = "pt"
 [Languages.nl]
 languageName = "Nederlands"
 languageCode = "nl"
+
+[Languages.it]
+languageName = "Italiano"
+languageCode = "it"
