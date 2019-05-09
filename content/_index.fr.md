@@ -26,14 +26,14 @@ Ces valeurs et principes fondamentaux sont&nbsp;:
 * Nous ne pensons pas que notre valeur en tant qu’êtres humains soit intrinsèquement liée à notre valeur en tant que travailleurs intellectuels et travailleuses intellectuelles. Notre profession ne nous définit pas&nbsp;; nous sommes plus que le produit de notre travail.
 * Nous pensons que les compétences interpersonnelles sont au moins aussi importantes que les compétences techniques.
 * Nous pouvons ajouter le plus de valeur en tant que professionnels et professionnelles en nous appuyant sur la diversité de nos identités, parcours, expériences et perspectives. L’homogénéité est un anti-modèle.
-* Nous pouvons avoir du succès tout en menant des vies riches et remplies. Notre succès et notre valeur ne dépendent pas du fait d’employer toute notre énergie à contribuer à des logiciels.
+* Nous pouvons avoir du succès tout en menant des vies riches et remplies. Notre succès et notre valeur ne dépendent pas du fait d’employer toute notre énergie sur la contribution de logiciels.
 * Nous avons l’obligation d’utiliser nos positions de privilège, aussi faibles soient-elles, pour améliorer la vie des autres.
-* Nous devons laisser la chance aux gens différents de nous d’entrer dans notre domaine et s’y accomplir. Cela ne signifie pas uniquement les inviter, mais aussi s’assurer de les soutenir et de leur donner du pouvoir.
-* Nous avons la responsabilité éthique de refuser de travailler sur du logiciel qui impactera négativement le bien-être d’autres personnes.
+* Nous devons laisser de la place aux gens différents de nous d’entrer dans notre domaine et d'y réussir. Cela ne signifie pas uniquement les inviter, mais aussi s’assurer qu'ils sont soutenus et qu'ils possèdent des responsabilités. 
+* Nous avons une responsabilité éthique de refuser de travailler sur des logiciels qui impacteront négativement le bien-être d’autres personnes.
 * Nous reconnaissons la valeur des contributeurs et contributrices non techniques comme égale à la valeur des contributeurs et contributrices techniques.
-* Nous comprenons que travailler dans notre champ est un privilège, et non un droit. L’impact négatif de personnes toxiques au travail ou dans une communauté n’est pas compensé par ses contributions techniques.
-* Nous sommes résolus à faire preuve de compassion et non de mépris. Nous refusons de rabaisser d’autres gens pour leurs choix d’outils, de techniques ou de langages.
-* Le champ du développement logiciel adhère au changement technique, et devient meilleur en acceptant également le changement social.
+* Nous comprenons que travailler dans notre domaine est un privilège, et non un droit. L’impact négatif de personnes toxiques au travail ou dans une plus large communauté n’est pas compensé par leurs contributions techniques.
+* Nous sommes dévoué à faire preuve de compassion et non de mépris. Nous refusons de rabaisser d’autres gens pour leurs choix d’outils, de techniques ou de langages.
+* Le domaine du développement logiciel adhère au changement technique, et devient meilleur en acceptant également le changement social.
 * Nous nous efforçons de toujours agir selon nos valeurs. Nous reconnaissons que des valeurs acceptées mais non pratiquées ne sont en aucun cas des valeurs.
 
 ### Signataires
