@@ -12,7 +12,7 @@ La méritocratie est un principe fondateur du mouvement Open Source, et l’idé
 
 Mais la méritocratie a systématiquement montré qu’elle bénéficiait aux personnes qui ont des privilèges, et excluait celles qui sont sous-représentées dans la technologie. L’idée du mérite n’est en fait jamais clairement définie&nbsp;; au contraire, elle semble être une forme de reconnaissance que «&nbsp;cette personne est importante dans la mesure où elle est comme moi&nbsp;».
 
-(Si vous n'êtes pas familier avec les critiques de la méritocracie, merci de vous référer aux ressources sur <a href="/meritocracy/">cette page</a> (anglais).)
+(Si vous n'êtes pas familier avec les critiques de la méritocracie, merci de vous référer aux ressources sur <a href="/meritocracy/" hreflang="en">cette page</a> (anglais).)
 
 Il est temps qu’en tant qu’industrie nous abandonions l’idée que le mérite est quelque chose qui peut être mesuré,
 poursuivi de façon égalitaire par chaque individu, et puisse un jour être distribué équitablement.
@@ -39,7 +39,7 @@ Ces valeurs et principes fondamentaux sont&nbsp;:
 ## Signataires
 
 <p class="callout">
-  Pour ajouter votre nom à la liste des signataires, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">signez ce formulaire</a>.
+  Pour ajouter votre nom à la liste des signataires, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2" hreflang="en">signez ce formulaire</a>.
 </p>
 
 {{< data-list "static/signatories.csv" >}}

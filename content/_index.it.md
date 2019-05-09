@@ -12,7 +12,7 @@ La Meritocrazia è un principio fondante del movimento open source e il suo idea
 
 Ma la meritocrazia si è costantemente mostrata a vantaggio soprattutto di coloro che hanno privilegi, escludendo le persone sottorappresentate nell'ambito tecnologico. L'idea del merito non è infatti mai chiaramente definita; sembra piuttosto essere una forma di gratitudine, un modo per riconoscere che "questa persona è preziosa in quanto uguale a me".
 
-(Se non hai familiarità con le critiche alla meritocrazia fai riferimento alle risorse presenti in <a href="/meritocracy/">questa pagina</a>.)
+(Se non hai familiarità con le critiche alla meritocrazia fai riferimento alle risorse presenti in <a href="/meritocracy/" hreflang="en">questa pagina</a>.)
 
 È tempo che noi, come industria, abbandoniamo la percezione che il merito sia qualcosa che può essere misurato, può essere perseguito, a parità di condizioni, da ogni individuo e può equamente essere distribuito.
 
@@ -38,7 +38,7 @@ Questi valori e princìpi sono:
 ## Firme
 
 <p class="callout">
-  Per aggiungere il tuo nome alla lista dei firmatari, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">compila questo form</a>.
+  Per aggiungere il tuo nome alla lista dei firmatari, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2" hreflang="en">compila questo form</a>.
 </p>
 
 {{< data-list "static/signatories.csv" >}}
