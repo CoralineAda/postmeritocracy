@@ -4,7 +4,7 @@ title = "Das Postmeritokratische Manifest"
 
 {{% section %}}
 
-## Das Postmeritokratische Manifest
+# Das Postmeritokratische Manifest
 
 {{< translations >}}
 
@@ -19,7 +19,7 @@ Für uns als Industrie ist es an der Zeit, die Idee hinter uns zu lassen, dass d
 
 Wie sieht eine postmeritokratische Welt aus? Sie beruht auf grundlegenden Werten und Prinzipien, einer Bejahung des Dazugehörens, die auf alle Menschen zutrifft, die die Entwicklung von Software praktizieren.
 
-### Unsere Werte
+## Unsere Werte
 
 Diese grundlegenden Werte und Prinzipien sind:
 
@@ -48,7 +48,7 @@ Diese grundlegenden Werte und Prinzipien sind:
 * Wir streben danach, unsere Werte in allem, was wir tun, widerspiegeln zu lassen. Wir sind uns darüber im Klaren, dass Werte, die angepriesen, aber nicht in die Tat umgesetzt werden, in erster Linie gar keine Werte sind.
 
 
-### Unterzeichner*innen
+## Unterzeichner*innen
 
 
 <p class="callout">

@@ -37,7 +37,7 @@ body {
 }
 
 /* block elements */
-h2 {
+h1 {
   font-family: "Spectral SC", Palatino, serif;
   font-size: 2.25rem;
   font-weight: 600;
@@ -46,7 +46,7 @@ h2 {
   border-bottom: 1px solid #aaa;
 }
 
-h3 {
+h2 {
   border-top: 1px solid #aaa;
   border-bottom: 1px solid #aaa;
   padding: .25em 0em;
@@ -57,7 +57,7 @@ h3 {
   margin: 0 0;
 }
 
-* + h3 {
+* + h2 {
   margin-top: 2rem;
 }
 

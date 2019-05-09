@@ -4,7 +4,7 @@ title = "Het Post-Meritocratie Manifest"
 
 {{% section %}}
 
-## Het Post-Meritocratie Manifest
+# Het Post-Meritocratie Manifest
 
 {{< translations >}}
 
@@ -18,7 +18,7 @@ Het is tijd dat wij als industrie het idee laten varen dat verdienste iets is da
 
 Hoe ziet een post-meritocratische wereld eruit? Zij is gebaseerd op een set van kernwaarden en principes, een bevestiging om erbij te horen, die opgaat voor iedereen die betrokken is bij software ontwikkeling.
 
-### Onze Waarden
+## Onze Waarden
 
 Deze kernwaarden en principes zijn:
 
@@ -46,7 +46,7 @@ Deze kernwaarden en principes zijn:
 
 * Wij streven ernaar om onze waardes tot uiting te brengen in alles wat we doen. Wij erkennen dat waardes die niet worden nageleefd, geen enkele waarde hebben.
 
-### Ondertekenaars
+## Ondertekenaars
 
 <p class="callout">
   Om jouw naam toe te voegen aan de lijst van ondertekenaars, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">teken je dit formulier</a>.
