@@ -23,7 +23,7 @@ poursuivi de façon égalitaire par chaque individu, et puisse un jour être dis
 
 Ces valeurs et principes fondamentaux sont&nbsp;:
 
-* Nous ne pensons pas que notre valeur en tant qu’êtres humains soit intrinsèquement liée à notre valeur en tant que travailleurs intellectuels et travailleuses intellectuelles. Notre profession ne nous définit pas&nbsp;; nous sommes plus que le produit de notre travail.
+* Nous ne pensons pas que notre valeur en tant qu’êtres humains soit intrinsèquement liée à notre valeur en tant que travailleuses intellectuelles et travailleurs intellectuels. Notre profession ne nous définit pas&nbsp;; nous sommes plus que le produit de notre travail.
 * Nous pensons que les compétences interpersonnelles sont au moins aussi importantes que les compétences techniques.
 * Nous pouvons ajouter le plus de valeur en tant que professionnels et professionnelles en nous appuyant sur la diversité de nos identités, parcours, expériences et perspectives. L’homogénéité est un anti-modèle.
 * Nous pouvons avoir du succès tout en menant des vies riches et remplies. Notre succès et notre valeur ne dépendent pas du fait d’employer toute notre énergie sur la contribution de logiciels.
