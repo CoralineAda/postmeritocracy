@@ -4,7 +4,7 @@ title = "O Manifesto da Pós-Meritocracia"
 
 {{% section %}}
 
-## O Manifesto da Pós-Meritocracia
+# O Manifesto da Pós-Meritocracia
 
 {{< translations >}}
 
@@ -18,7 +18,7 @@ No entanto, a meritocracia tem consistentemente mostrado que beneficia aqueles c
 
 Como é um mundo pós-meritocracia? Ele está fundamentado em um conjunto central de valores e princípios, uma afirmação de pertencimento que se aplica a todos que se engajam na prática do desenvolvimento de software.
 
-### Nossos valores
+## Nossos valores
 
 Estes valores e princípios fundamentais são:
 
@@ -35,7 +35,7 @@ Estes valores e princípios fundamentais são:
 * O campo do desenvolvimento de software abrange mudanças técnicas, e é aprimorado aceitando também a mudança social.
 * Nós nos esforçamos para refletir nossos valores em tudo o que fazemos. Entendemos que valores que são adotados mas não praticados não são valores.
 
-### Signatários
+## Signatários
 
 <p class="callout">
   Para adicionar seu nome à lista de signatários, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2"> assine este formulário </a>.

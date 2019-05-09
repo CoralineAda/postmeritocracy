@@ -4,7 +4,7 @@ title = "Le manifeste post-méritocratie"
 
 {{% section %}}
 
-## Le manifeste post-méritocratie
+# Le manifeste post-méritocratie
 
 {{< translations >}}
 
@@ -19,7 +19,7 @@ poursuivi de façon égalitaire par tout le monde, et puisse un jour être distr
 
 À quoi ressemble un monde post-méritocratie&nbsp;? Il est fondé sur un ensemble de valeurs et principes fondamentaux, affirmant l’appartenance de toutes les personnes qui s’impliquent dans le développement logiciel.
 
-### Nos valeurs
+## Nos valeurs
 
 Ces valeurs et principes fondamentaux sont&nbsp;:
 
@@ -36,7 +36,7 @@ Ces valeurs et principes fondamentaux sont&nbsp;:
 * Le champ du développement logiciel adhère au changement technique, et devient meilleur en acceptant également le changement social.
 * Nous nous efforçons de toujours agir selon nos valeurs. Nous reconnaissons que des valeurs acceptées mais non pratiquées ne sont pas des valeurs du tout.
 
-### Signataires
+## Signataires
 
 <p class="callout">
   Pour ajouter votre nom à la liste des signataires, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">signez ce formulaire</a>.

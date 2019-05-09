@@ -4,7 +4,7 @@ title = "Manifesto Post-Meritocratico"
 
 {{% section %}}
 
-## Manifesto Post-Meritocratico
+# Manifesto Post-Meritocratico
 
 {{< translations >}}
 
@@ -18,7 +18,7 @@ Ma la meritocrazia si è costantemente mostrata a vantaggio soprattutto di color
 
 Che aspetto avrebbe un mondo post-meritocratico? Sarebbe basato su un nucleo di valori e princìpi, un'affermazione di appartenenza che si applicherebbe a tutti coloro che si impegnassero nella pratica dello sviluppo software.
 
-### I nostri valori
+## I nostri valori
 
 Questi valori e princìpi sono:
 
@@ -35,7 +35,7 @@ Questi valori e princìpi sono:
 * Il campo dello sviluppo software abbraccia il cambiamento tecnologico, ed è reso migliore anche accettando il cambiamento sociale.
 * Ci sforziamo di riflettere i nostri valori in tutto ciò che facciamo. Riconosciamo che valori esibiti ma non praticati non siano affatto valori.
 
-### Firme
+## Firme
 
 <p class="callout">
   Per aggiungere il tuo nome alla lista dei firmatari, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">compila questo form</a>.
