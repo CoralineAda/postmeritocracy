@@ -20,7 +20,7 @@ languageCode = "en"
 weight = 1
 
 [Languages.fr]
-languageName = "French"
+languageName = "Français"
 languageCode = "fr"
 
 [Languages.sp]
