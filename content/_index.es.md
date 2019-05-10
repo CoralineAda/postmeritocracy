@@ -10,7 +10,7 @@ La meritocracia es un principio fundador del movimiento código abierto, y el id
 
 Pero la meritocracia se ha mostrado consistentemente beneficiar principalmente a aquellos con privilegios, con exclusión de las personas poco representadas en tecnología. La idea de mérito nunca está claramente definida; más bien, parece ser una forma de reconocimiento, un reconocimiento de que "esta persona es valiosa en la medida en que son como yo".
 
-(Si no está familiarizado con las críticas a la meritocracia, consulte los recursos de <a href="/meritocracy/">esta pagina</a>.)
+(Si no está familiarizado con las críticas a la meritocracia, consulte los recursos de <a href="/meritocracy/" hreflang="en">esta pagina</a>.)
 
 Es hora de que nosotros, como industria, abandonemos la noción de que el mérito es algo que se puede medir, que cada individuo puede perseguir en términos iguales y que siempre puede distribuirse justamente.
 
@@ -39,7 +39,7 @@ Estos valores y principios fundamentales son:
 ## Firmantes
 
 <p class="callout">
-  Para agregar tu nombre a la lista de firmantes, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">firma este documento</a>.
+  Para agregar tu nombre a la lista de firmantes, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2" hreflang="en">firma este documento</a>.
 </p>
 
 {{< data-list "static/signatories.csv" >}}

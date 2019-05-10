@@ -13,7 +13,7 @@ Meritokratie ist ein grundlegendes Prinzip der Open-Source-Bewegung und das meri
 Es hat sich allerdings immer wieder gezeigt, dass Meritokratie hauptsächlich denjenigen, die privilegiert sind, zugute kommt und damit Menschen, die in der IT-Branche unterrepräsentiert sind, ausschließt.
 Tatsächlich ist die Idee von anerkennenswerter Leistung niemals klar definiert; stattdessen scheint sie eine Form der Bestätigung zu sein, eine Anerkennung, dass "diese Person insofern wertvoll sei, als dass sie so sei wie ich."
 
-(Falls dir die Kritikpunkte von Meritokratie nicht bekannt sind, mache dich bitte auf <a href="/meritocracy/">dieser Seite</a> mit ihnen vertraut.)
+(Falls dir die Kritikpunkte von Meritokratie nicht bekannt sind, mache dich bitte auf <a href="/meritocracy/" hreflang="en">dieser Seite</a> mit ihnen vertraut.)
 
 Für uns als Industrie ist es an der Zeit, die Idee hinter uns zu lassen, dass das Verdienst - und deren Anerkennung - etwas sei, dass gemessen, von jedem Individuum  unter denselben Bedingungen angestrebt und jemals fair verteilt werden kann.
 
@@ -52,7 +52,7 @@ Diese grundlegenden Werte und Prinzipien sind:
 
 
 <p class="callout">
-  Um deinen Namen zur Liste der Unterzeichner*innen hinzuzufügen, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">unterzeichne dieses Formular</a>.
+  Um deinen Namen zur Liste der Unterzeichner*innen hinzuzufügen, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2" hreflang="en">unterzeichne dieses Formular</a>.
 </p>
 
 {{< data-list "static/signatories.csv" >}}

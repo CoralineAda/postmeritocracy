@@ -12,7 +12,7 @@ Meritocratie is een basisprincipe van de open source beweging, en de idealen van
 
 Maar meritocratie heeft telkenmale aangetoond vooral bevoorrechte personen te bevoordelen, ten koste van hen die ondervertegenwoordigd zijn in technologie. Het idee van 'merit', of verdienste, is zelfs nooit duidelijk gedefinieerd; in plaats daarvan wordt het gezien als een vorm van herkenning, een erkenning dat “deze persoon waardevol is voor zover ze op mij lijkt.”
 
-(Indien je niet bekend bent met de bestaande kritiek op meritocratie, lees dan de informatie op <a href="/meritocracy/">deze pagina</a>.)
+(Indien je niet bekend bent met de bestaande kritiek op meritocratie, lees dan de informatie op <a href="/meritocracy/" hreflang="en">deze pagina</a>.)
 
 Het is tijd dat wij als industrie het idee laten varen dat verdienste iets is dat meetbaar is, dat op dezelfde wijze kan worden nagestreefd door ieder individu, en ooit gelijkelijk kan worden verdeeld.
 
@@ -49,7 +49,7 @@ Deze kernwaarden en principes zijn:
 ## Ondertekenaars
 
 <p class="callout">
-  Om jouw naam toe te voegen aan de lijst van ondertekenaars, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">teken je dit formulier</a>.
+  Om jouw naam toe te voegen aan de lijst van ondertekenaars, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2" hreflang="en">teken je dit formulier</a>.
 </p>
 
 {{< data-list "static/signatories.csv" >}}

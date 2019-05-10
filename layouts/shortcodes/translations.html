@@ -1,5 +1,5 @@
 <ul class="translation-list">
   {{ range $.Site.Home.AllTranslations }}
-    <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+    <li><a href="{{ .Permalink }}" lang="{{ .Language }}" hreflang="{{ .Language }}">{{ .Language.LanguageName }}</a></li>
 {{ end }}
 </ul>
