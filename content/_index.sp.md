@@ -38,10 +38,6 @@ Estos valores y principios fundamentales son:
 
 ### Firmantes
 
-<p class="callout">
-  Para agregar tu nombre a la lista de firmantes, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">firma este documento</a>.
-</p>
-
 {{< data-list "static/signatories.csv" >}}
 
 {{% /section %}}

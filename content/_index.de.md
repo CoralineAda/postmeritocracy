@@ -50,11 +50,6 @@ Diese grundlegenden Werte und Prinzipien sind:
 
 ### Unterzeichner*innen
 
-
-<p class="callout">
-  Um deinen Namen zur Liste der Unterzeichner*innen hinzuzufügen, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">unterzeichne dieses Formular</a>.
-</p>
-
 {{< data-list "static/signatories.csv" >}}
 
 {{% /section %}}

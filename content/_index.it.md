@@ -37,10 +37,6 @@ Questi valori e princìpi sono:
 
 ### Firme
 
-<p class="callout">
-  Per aggiungere il tuo nome alla lista dei firmatari, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">compila questo form</a>.
-</p>
-
 {{< data-list "static/signatories.csv" >}}
 
 {{% /section %}}

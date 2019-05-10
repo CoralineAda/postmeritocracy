@@ -37,10 +37,6 @@ Estes valores e princípios fundamentais são:
 
 ### Signatários
 
-<p class="callout">
-  Para adicionar seu nome à lista de signatários, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2"> assine este formulário </a>.
-</p>
-
 {{<data-list "static/signatories.csv">}}
 
 {{% /section %}}

@@ -48,10 +48,6 @@ Deze kernwaarden en principes zijn:
 
 ### Ondertekenaars
 
-<p class="callout">
-  Om jouw naam toe te voegen aan de lijst van ondertekenaars, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">teken je dit formulier</a>.
-</p>
-
 {{< data-list "static/signatories.csv" >}}
 
 {{% /section %}}

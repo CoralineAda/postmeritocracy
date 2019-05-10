@@ -38,10 +38,6 @@ title = "उत्तर-गुणतंत्र घोषणापत्र"
 
 ### हस्ताक्षरकर्ता
 
-<p class="callout">
-  हस्ताक्षरकर्ताओं की सूची में अपना नाम जोड़ने के लिए, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2"> इस फ़ॉर्म पर हस्ताक्षर करें </a>।
-</p>
-
 {{< data-list "static/signatories.csv" >}}
 
 {{% /section %}}
