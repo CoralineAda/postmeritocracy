@@ -4,7 +4,7 @@ title = "The Post-Meritocracy Manifesto"
 
 {{% section %}}
 
-## The Post-Meritocracy Manifesto
+# The Post-Meritocracy Manifesto
 
 {{< translations >}}
 
@@ -18,7 +18,7 @@ It is time that we as an industry abandon the notion that merit is something tha
 
 What does a post-meritocracy world look like? It is founded on a core set of values and principles, an affirmation of belonging that applies to everyone who engages in the practice of software development.
 
-### Our Values
+## Our Values
 
 These core values and principles are:
 
@@ -35,7 +35,7 @@ These core values and principles are:
 * The field of software development embraces technical change, and is made better by also accepting social change.
 * We strive to reflect our values in everything that we do. We recognize that values that are espoused but not practiced are not values at all.
 
-### Signatories
+## Signatories
 
 {{< data-list "static/signatories.csv" >}}
 

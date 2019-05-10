@@ -4,7 +4,7 @@ title = "The Post-Meritocracy Manifesto"
 
 {{% section %}}
 
-## The Post-Meritocracy Manifesto
+# The Post-Meritocracy Manifesto
 
 There are a number of resources for understanding the shortcomings of meritocracy. Here are some suggested sources for further reading:
 

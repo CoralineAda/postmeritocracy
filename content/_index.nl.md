@@ -4,7 +4,7 @@ title = "Het Post-Meritocratie Manifest"
 
 {{% section %}}
 
-## Het Post-Meritocratie Manifest
+# Het Post-Meritocratie Manifest
 
 {{< translations >}}
 
@@ -12,13 +12,13 @@ Meritocratie is een basisprincipe van de open source beweging, en de idealen van
 
 Maar meritocratie heeft telkenmale aangetoond vooral bevoorrechte personen te bevoordelen, ten koste van hen die ondervertegenwoordigd zijn in technologie. Het idee van 'merit', of verdienste, is zelfs nooit duidelijk gedefinieerd; in plaats daarvan wordt het gezien als een vorm van herkenning, een erkenning dat “deze persoon waardevol is voor zover ze op mij lijkt.”
 
-(Indien je niet bekend bent met de bestaande kritiek op meritocratie, lees dan de informatie op <a href="/meritocracy/">deze pagina</a>.)
+(Indien je niet bekend bent met de bestaande kritiek op meritocratie, lees dan de informatie op <a href="/meritocracy/" hreflang="en">deze pagina</a>.)
 
 Het is tijd dat wij als industrie het idee laten varen dat verdienste iets is dat meetbaar is, dat op dezelfde wijze kan worden nagestreefd door ieder individu, en ooit gelijkelijk kan worden verdeeld.
 
 Hoe ziet een post-meritocratische wereld eruit? Zij is gebaseerd op een set van kernwaarden en principes, een bevestiging om erbij te horen, die opgaat voor iedereen die betrokken is bij software ontwikkeling.
 
-### Onze Waarden
+## Onze Waarden
 
 Deze kernwaarden en principes zijn:
 
@@ -46,7 +46,7 @@ Deze kernwaarden en principes zijn:
 
 * Wij streven ernaar om onze waardes tot uiting te brengen in alles wat we doen. Wij erkennen dat waardes die niet worden nageleefd, geen enkele waarde hebben.
 
-### Ondertekenaars
+## Ondertekenaars
 
 {{< data-list "static/signatories.csv" >}}
 

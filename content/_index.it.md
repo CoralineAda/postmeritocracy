@@ -4,7 +4,7 @@ title = "Manifesto Post-Meritocratico"
 
 {{% section %}}
 
-## Manifesto Post-Meritocratico
+# Manifesto Post-Meritocratico
 
 {{< translations >}}
 
@@ -12,13 +12,13 @@ La Meritocrazia è un principio fondante del movimento open source e il suo idea
 
 Ma la meritocrazia si è costantemente mostrata a vantaggio soprattutto di coloro che hanno privilegi, escludendo le persone sottorappresentate nell'ambito tecnologico. L'idea del merito non è infatti mai chiaramente definita; sembra piuttosto essere una forma di gratitudine, un modo per riconoscere che "questa persona è preziosa in quanto uguale a me".
 
-(Se non hai familiarità con le critiche alla meritocrazia fai riferimento alle risorse presenti in <a href="/meritocracy/">questa pagina</a>.)
+(Se non hai familiarità con le critiche alla meritocrazia fai riferimento alle risorse presenti in <a href="/meritocracy/" hreflang="en">questa pagina</a>.)
 
 È tempo che noi, come industria, abbandoniamo la percezione che il merito sia qualcosa che può essere misurato, può essere perseguito, a parità di condizioni, da ogni individuo e può equamente essere distribuito.
 
 Che aspetto avrebbe un mondo post-meritocratico? Sarebbe basato su un nucleo di valori e princìpi, un'affermazione di appartenenza che si applicherebbe a tutti coloro che si impegnassero nella pratica dello sviluppo software.
 
-### I nostri valori
+## I nostri valori
 
 Questi valori e princìpi sono:
 
@@ -35,7 +35,7 @@ Questi valori e princìpi sono:
 * Il campo dello sviluppo software abbraccia il cambiamento tecnologico, ed è reso migliore anche accettando il cambiamento sociale.
 * Ci sforziamo di riflettere i nostri valori in tutto ciò che facciamo. Riconosciamo che valori esibiti ma non praticati non siano affatto valori.
 
-### Firme
+## Firme
 
 {{< data-list "static/signatories.csv" >}}
 

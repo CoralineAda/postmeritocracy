@@ -4,20 +4,19 @@ title = "El Manifiesto Pos-Meritocracia"
 
 {{% section %}}
 
-## El Manifiesto Pos-Meritocracia
+# El Manifiesto Pos-Meritocracia
 
 La meritocracia es un principio fundador del movimiento código abierto, y el ideal de la meritocracia se perpetúa en toda nuestra profesión en la forma en que las personas son reclutadas, contratadas, retenidas, promocionadas y valoradas.
 
 Pero la meritocracia se ha mostrado consistentemente beneficiar principalmente a aquellos con privilegios, con exclusión de las personas poco representadas en tecnología. La idea de mérito nunca está claramente definida; más bien, parece ser una forma de reconocimiento, un reconocimiento de que "esta persona es valiosa en la medida en que son como yo".
 
-(Si no está familiarizado con las críticas a la meritocracia, consulte los recursos de <a href="/meritocracy/">esta pagina</a>.)
+(Si no está familiarizado con las críticas a la meritocracia, consulte los recursos de <a href="/meritocracy/" hreflang="en">esta pagina</a>.)
 
 Es hora de que nosotros, como industria, abandonemos la noción de que el mérito es algo que se puede medir, que cada individuo puede perseguir en términos iguales y que siempre puede distribuirse justamente.
 
 ¿Cómo se ve un mundo pos-meritocracia? Se basa en un conjunto básico de valores y principios, una afirmación de pertenencia que se aplica a todos los que se dedican a la práctica del desarrollo de software.
 
-### Nuestros Valores
-
+## Nuestros Valores
 
 Estos valores y principios fundamentales son:
 
@@ -36,7 +35,7 @@ Estos valores y principios fundamentales son:
 
 {{< translations >}}
 
-### Firmantes
+## Firmantes
 
 {{< data-list "static/signatories.csv" >}}
 
