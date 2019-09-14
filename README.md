@@ -13,8 +13,7 @@ Open a PR to add your name. Modify the file `static/signatories.csv` and you're 
 	* On macOS: `brew install hugo`
 	* On most Linux distros: `snap install hugo`
 	* See [here](https://gohugo.io/getting-started/installing/) for more options
-
-* Create an empty markdown file called `_index.<COUNTRY_CODE>.md` in the `content` directory
+* Create an empty markdown file called `_index.<LANGUAGE_CODE>.md` in the `content` directory
 * Write your translation there. Be sure to copy the structure of the English version at `index.md`, including all the special codes.
 * Add an entry to `config.toml` with your language information under the [Languages] tag. Please use the language codes defined by ISO 639-1: http://www.loc.gov/standards/iso639-2/php/code_list.php. For example, for Swedish, you would enter:
 
