@@ -4,7 +4,7 @@ title = "The Post-Meritocracy Manifesto"
 
 {{% section %}}
 
-## The Post-Meritocracy Manifesto
+# The Post-Meritocracy Manifesto
 
 There are a number of resources for understanding the shortcomings of meritocracy. Here are some suggested sources for further reading:
 
@@ -17,6 +17,11 @@ There are a number of resources for understanding the shortcomings of meritocrac
   <li>
     <a href="https://modelviewculture.com/pieces/the-dehumanizing-myth-of-the-meritocracy">
       The Dehumanizing Myth of Meritocracy
+    </a>
+  </li>
+  <li>
+    <a href="https://adanewmedia.org/2018/03/naive-meritocracy-and-the-meanings-of-myth/">
+      Naive Meritocracy and the Meanings of Myth
     </a>
   </li>
   <li>

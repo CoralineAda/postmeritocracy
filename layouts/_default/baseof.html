@@ -7,7 +7,7 @@
       <meta name="git-hash" content="{{ .GitInfo.AbbreviatedHash | safeHTMLAttr }}">
     {{ end }}
     <meta property="og:url" content="{{ .Permalink }}">
-    <title>{{ block "title" . }}The Post-Meritocracy Manifesto{{ end }}</title>
+    <title>{{ block "title" . }}The Post-Meritocracy Manifesto - Created by Coraline Ada Ehmke{{ end }}</title>
     {{ if .Site.BuildDrafts }}
       <link rel="stylesheet" href="{{ "css/base.css" | relURL }}">
     {{ else }}
@@ -20,10 +20,10 @@
     {{ block "main" . }}
       {{ .Content }}
     {{ end }}
-    <section class="footer">
+    <section class="footer" lang="en">
       <div>
         <p>Created by <a href="https://where.coraline.codes">Coraline Ada Ehmke</a> in May 2018.</p>
-        <p>This is a living document. You can contribute <a href="https://github.com/coralineAda/postmeritocracy">on GitHub</a>.</p>
+        <p>You can contribute to this project <a href="https://github.com/coralineAda/postmeritocracy">on GitHub</a>.</p>
       </div>
     </section>
     <link id="font-stylesheet" rel="alternate stylesheet" href="https://fonts.googleapis.com/css?family=Spectral:400,400i,600,600i|Spectral+SC:400,400i,600,600i">

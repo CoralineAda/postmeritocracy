@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://postmeritocracy.org/categories/</loc>
+    <loc>https://postmeritocracy.org/hi/categories/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://postmeritocracy.org/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="sp"
                 href="https://postmeritocracy.org/sp/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hi"
-                href="https://postmeritocracy.org/hi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -27,23 +27,23 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://postmeritocracy.org/categories/"
+                hreflang="hi"
+                href="https://postmeritocracy.org/hi/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://postmeritocracy.org/tags/</loc>
+    <loc>https://postmeritocracy.org/hi/tags/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://postmeritocracy.org/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="sp"
                 href="https://postmeritocracy.org/sp/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hi"
-                href="https://postmeritocracy.org/hi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,14 +57,19 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://postmeritocracy.org/tags/"
+                hreflang="hi"
+                href="https://postmeritocracy.org/hi/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://postmeritocracy.org/</loc>
+    <loc>https://postmeritocracy.org/hi/</loc>
     <lastmod>2018-05-25T16:55:15-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://postmeritocracy.org/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -85,16 +90,6 @@
                 hreflang="hi"
                 href="https://postmeritocracy.org/hi/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://postmeritocracy.org/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://postmeritocracy.org/meritocracy/</loc>
-    <lastmod>2018-05-26T20:58:43-05:00</lastmod>
   </url>
   
 </urlset>

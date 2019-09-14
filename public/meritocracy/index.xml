@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Post-Meritocracy Manifesto</title>
-    <link>https://postmeritocracy.com/meritocracy/</link>
+    <link>https://postmeritocracy.org/meritocracy/</link>
     <description>Recent content on The Post-Meritocracy Manifesto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 May 2018 10:38:34 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 26 May 2018 20:58:43 -0500</lastBuildDate>
     
-	<atom:link href="https://postmeritocracy.com/meritocracy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://postmeritocracy.org/meritocracy/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
