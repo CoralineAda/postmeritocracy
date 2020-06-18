@@ -29,7 +29,7 @@ Questi valori e princìpi sono:
 * Abbiamo l'obbligo di utilizzare le nostre posizioni di privilegio, anche se deboli, per migliorare la vita degli altri.
 * Dobbiamo fare spazio affinché persone che non sono come noi possano entrare nel nostro campo e abbiano successo. Questo significa non solo invitarli, ma assicurarsi che siano supportati e autorizzati.
 * Abbiamo la responsabilità etica di rifiutare di lavorare su un software che avrà un impatto negativo sul benessere di altre persone.
-* Riconosciamo il valore dei contributi non tecnici come di eguale valore rispetto ai contributi tecnici.
+* Riconosciamo il valore di tutti i contributi come di eguale valore a quello degli ingegneri.
 * Comprendiamo che lavorare nel nostro campo è un privilegio, non un diritto. L'impatto negativo delle persone velenose sul posto di lavoro o nelle community più grandi non è compensato dai loro contributi tecnici.
 * Siamo impegnati a praticare la compassione e non il disprezzo. Ci rifiutiamo di sminuire le altre persone a causa delle loro scelte rispetto a strumenti, tecniche o linguaggi.
 * Il campo dello sviluppo software abbraccia il cambiamento tecnologico, ed è reso migliore anche accettando il cambiamento sociale.
