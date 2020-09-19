@@ -50,3 +50,8 @@ languageCode = "nl"
 [Languages.it]
 languageName = "Italiano"
 languageCode = "it"
+
+[Languages.no]
+languageName = "Norsk (bokmål)"
+languageCode = "no"
+
