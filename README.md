@@ -1,6 +1,9 @@
 # The Post-Meritocracy Manifesto
 A project to communicate the values and principals of software developers in the post-meritocracy world.
 
+## The manifesto web page
+This repository is the source code for the <https://postmeritocracy.org/> web page, which shows the manifesto and its signatories.
+
 ## Contributing
 Be sure to read the Code of Conduct before submitting a pull request, opening an issue, or otherwise engaging with this community.
 
