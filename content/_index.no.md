@@ -31,7 +31,7 @@ Disse grunnleggende verdier og prinsipper er:
 * Vi har en etisk forpliktelse å nekte arbeide på programvare som vil negativt påvirke andre menneskers velferd.
 * Vi anser verdien av alle typer bidrag som likverdige til verdien av bidrag fra utviklere **?engineers ikke samme som "ingeniør"**
   _We acknowledge the value of all contributors as equal to the value of contributors who are engineers._
-* Vi forstår at å arbeide i vårt felt er et privilegie, ikke en rettighet. Den negative effekten av **??toxic??** medarbeidere eller i større samlag **?community?** ikke kan bli tilsidesatt på grunn av deres tekniske bidrag.
+* Vi forstår at å arbeide i vårt felt er et privilegie, ikke en rettighet. Den negative effekten av spydige **??toxic??** medarbeidere eller i større samlag **?community?** ikke kan bli tilsidesatt på grunn av deres tekniske bidrag.
 * Vi er forpliktet til å vise vår omtanke og ikke avsky. Vi skal aldri syte på andres valg av verktøy, teknikker eller programmeringsspråk.
 * Programvareutvikling som et arbeidsfelt elsker teknologiske endringer, og blir enda bedre av å godta og delta i sosiale endringer.
 * Vi strever etter at våre verdier blir sett i alt vi gjør. Vi vet at verdier som bare blir snakket om, uten å blir praktisert, ikke er verdier i det hele tatt.
@@ -39,7 +39,7 @@ Disse grunnleggende verdier og prinsipper er:
 
 ## Underskrifter
 
-For å legge til din egen underskrift, [åpne en Pulll Request](https://github.com/CoralineAda/postmeritocracy) i vårt arbeidsområde på GitHub.
+For å legge til din egen underskrift, [åpne en Pull Request](https://github.com/CoralineAda/postmeritocracy) i vårt arbeidsområde på GitHub.
 
 {{< data-list "static/signatories.csv" >}}
 
