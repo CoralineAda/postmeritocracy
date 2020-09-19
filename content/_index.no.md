@@ -4,7 +4,7 @@ title = "Manifesto for Post-Meritokratiet"
 
 {{% section %}}
 
-# Post-Meritokratiet
+# Manifesto for Post-Meritokratiet
 
 {{< translations >}}
 
