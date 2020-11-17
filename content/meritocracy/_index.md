@@ -10,7 +10,7 @@ There are a number of resources for understanding the shortcomings of meritocrac
 
 <ul>
   <li>
-    <a href="https://en.wikipedia.org/wiki/Meritocracy#Criticism">
+    <a href="https://en.wikipedia.org/wiki/Meritocracy#Critique">
       Meritocracy (Criticism)
     </a>
   </li>
