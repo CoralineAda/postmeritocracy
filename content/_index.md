@@ -14,7 +14,7 @@ But meritocracy has consistently shown itself to mainly benefit those with privi
 
 (If you are not familiar with criticisms of meritocracy, please refer to the resources on <a href="/meritocracy/">this page</a>.)
 
-It is time that we as an industry abandon the notion that merit is something that can be measured, can be pursued on equal terms by every individual, and can ever be distributed fairly.
+It is time that we as an industry abandon the notion that merit is something that can be measured objectively, that can be pursued on equal terms by every individual, and that can ever be distributed fairly.
 
 What does a post-meritocracy world look like? It is founded on a core set of values and principles, an affirmation of belonging that applies to everyone who engages in the practice of software development.
 
