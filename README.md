@@ -8,7 +8,7 @@ This repository is the source code for the <https://postmeritocracy.org/> web pa
 Be sure to read the Code of Conduct before submitting a pull request, opening an issue, or otherwise engaging with this community.
 
 ## Adding your name as a signatory
-Open a PR to add your name. Modify the file `assets/signatories.csv` and you're all set.
+Open a PR to add your name. Add your name to the bottom of the file `assets/signatories.csv` and you're all set.
 
 ## Adding a translation
 * Fork the repo
