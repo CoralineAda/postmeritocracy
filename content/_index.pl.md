@@ -41,6 +41,6 @@ Przyjmujemy następujące wartości i zasady:
   Aby dodać swoje nazwisko do listy sygnatariuszy, <a href="https://goo.gl/forms/9JT45K1iuKcBSPFj2">wypełnij ten formularz</a>.
 </p>
 
-{{< data-list "static/signatories.csv" >}}
+{{< data-list "signatories.csv" >}}
 
 {{% /section %}}

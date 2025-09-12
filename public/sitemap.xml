@@ -4,63 +4,35 @@
   <sitemap>
     <loc>http://localhost:1313/en/sitemap.xml</loc>
     
-      <lastmod>2021-04-13T19:57:34+00:00</lastmod>
-    
   </sitemap>
   
   <sitemap>
     <loc>http://localhost:1313/de/sitemap.xml</loc>
-    
-      <lastmod>2019-05-10T13:45:46-05:00</lastmod>
     
   </sitemap>
   
   <sitemap>
     <loc>http://localhost:1313/es/sitemap.xml</loc>
     
-      <lastmod>2019-05-09T16:36:03+02:00</lastmod>
-    
   </sitemap>
   
   <sitemap>
     <loc>http://localhost:1313/fr/sitemap.xml</loc>
-    
-      <lastmod>2019-05-10T12:10:27-05:00</lastmod>
     
   </sitemap>
   
   <sitemap>
     <loc>http://localhost:1313/hi/sitemap.xml</loc>
     
-      <lastmod>2019-05-10T12:10:27-05:00</lastmod>
-    
   </sitemap>
   
   <sitemap>
     <loc>http://localhost:1313/it/sitemap.xml</loc>
     
-      <lastmod>2019-10-09T13:37:00+02:00</lastmod>
-    
   </sitemap>
   
   <sitemap>
     <loc>http://localhost:1313/nl/sitemap.xml</loc>
-    
-      <lastmod>2019-05-10T12:10:27-05:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/pl/sitemap.xml</loc>
-    
-      <lastmod>2019-05-16T17:16:58+02:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/pt/sitemap.xml</loc>
-    
-      <lastmod>2019-05-10T12:10:27-05:00</lastmod>
     
   </sitemap>
   

@@ -50,6 +50,6 @@ Diese grundlegenden Werte und Prinzipien sind:
 
 ## Unterzeichner innen
 
-{{< data-list "static/signatories.csv" >}}
+{{< data-list "signatories.csv" >}}
 
 {{% /section %}}

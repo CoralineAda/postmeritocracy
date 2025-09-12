@@ -37,6 +37,6 @@ Estes valores e princípios fundamentais são:
 
 ## Signatários
 
-{{<data-list "static/signatories.csv">}}
+{{<data-list "signatories.csv">}}
 
 {{% /section %}}

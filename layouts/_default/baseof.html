@@ -34,13 +34,6 @@
       <script>
         {{ readFile "static/scripts/manifesto.js" | safeJS }}
       </script>
-      <script>
-        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-        ga('create', '{{ .Site.GoogleAnalytics }}', 'auto');
-        ga('send', 'pageview');
-
-        {{ readFile "static/scripts/analytics.js" | safeJS }}
-      </script>
     {{ end }}
   </body>
 </html>

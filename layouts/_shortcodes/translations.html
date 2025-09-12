@@ -1,0 +1,5 @@
+<ul class="translation-list">
+  {{ range $.Site.Home.AllTranslations }}
+    {{ partial "translation.html" . }}
+  {{ end }}
+</ul>

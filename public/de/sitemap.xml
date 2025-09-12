@@ -1,95 +1,116 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://postmeritocracy.org/de/categories/</loc>
-    <priority>0</priority>
+    <loc>http://localhost:1313/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://postmeritocracy.org/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="sp"
-                href="https://postmeritocracy.org/sp/categories/"
+                hreflang="es"
+                href="http://localhost:1313/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://postmeritocracy.org/hi/categories/"
+                href="http://localhost:1313/hi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="https://postmeritocracy.org/pt/categories/"
+                hreflang="it"
+                href="http://localhost:1313/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://postmeritocracy.org/de/categories/"
+                href="http://localhost:1313/de/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://postmeritocracy.org/de/</loc>
-    <lastmod>2018-05-28T12:00:24+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://postmeritocracy.org/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="sp"
-                href="https://postmeritocracy.org/sp/"
+                hreflang="es"
+                href="http://localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="https://postmeritocracy.org/pt/"
+                hreflang="nl"
+                href="http://localhost:1313/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://localhost:1313/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://postmeritocracy.org/hi/"
+                href="http://localhost:1313/hi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://postmeritocracy.org/de/"
+                href="http://localhost:1313/de/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://postmeritocracy.org/de/tags/</loc>
-    <priority>0</priority>
+  </url><url>
+    <loc>http://localhost:1313/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://postmeritocracy.org/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="sp"
-                href="https://postmeritocracy.org/sp/tags/"
+                hreflang="es"
+                href="http://localhost:1313/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="https://postmeritocracy.org/hi/tags/"
+                href="http://localhost:1313/hi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="https://postmeritocracy.org/pt/tags/"
+                hreflang="it"
+                href="http://localhost:1313/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://postmeritocracy.org/de/tags/"
+                href="http://localhost:1313/de/tags/"
                 />
   </url>
-  
 </urlset>

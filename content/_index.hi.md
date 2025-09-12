@@ -38,6 +38,6 @@ title = "उत्तर-गुणतंत्र घोषणापत्र"
 
 ## हस्ताक्षरकर्ता
 
-{{< data-list "static/signatories.csv" >}}
+{{< data-list "signatories.csv" >}}
 
 {{% /section %}}
