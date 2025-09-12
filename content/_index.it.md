@@ -37,6 +37,6 @@ Questi valori e princìpi sono:
 
 ## Firme
 
-{{< data-list "static/signatories.csv" >}}
+{{< data-list "signatories.csv" >}}
 
 {{% /section %}}

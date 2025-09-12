@@ -35,19 +35,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pl"
-                href="http://localhost:1313/pl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/categories/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/_index.pl/</loc>
+  </url><url>
+    <loc>http://localhost:1313/_index.pt/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
@@ -82,22 +76,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pl"
-                href="http://localhost:1313/pl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2019-09-13T23:07:47-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -120,18 +103,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pl"
-                href="http://localhost:1313/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="it"
                 href="http://localhost:1313/it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -145,6 +118,5 @@
                 />
   </url><url>
     <loc>http://localhost:1313/meritocracy/</loc>
-    <lastmod>2021-04-13T19:57:34+00:00</lastmod>
   </url>
 </urlset>

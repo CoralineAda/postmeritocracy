@@ -1,0 +1,11 @@
+<ul class="data-list">
+  {{ with $file := .Get 0 }}
+    {{ with resources.Get $file }}
+      {{ with . | transform.Unmarshal }}
+        {{ range after 1 . }}
+          {{ partial "signatory.html" . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</ul>

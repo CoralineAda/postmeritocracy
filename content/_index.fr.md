@@ -38,6 +38,6 @@ Ces valeurs et principes fondamentaux sont&nbsp;:
 
 ## Signataires
 
-{{< data-list "static/signatories.csv" >}}
+{{< data-list "signatories.csv" >}}
 
 {{% /section %}}

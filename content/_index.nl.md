@@ -48,6 +48,6 @@ Deze kernwaarden en principes zijn:
 
 ## Ondertekenaars
 
-{{< data-list "static/signatories.csv" >}}
+{{< data-list "signatories.csv" >}}
 
 {{% /section %}}

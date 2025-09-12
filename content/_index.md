@@ -39,6 +39,6 @@ These core values and principles are:
 
 To add yourself as a signatory, [open a PR](https://github.com/CoralineAda/postmeritocracy) in our Github repository.
 
-{{< data-list "static/signatories.csv" >}}
+{{< data-list "signatories.csv" >}}
 
 {{% /section %}}
